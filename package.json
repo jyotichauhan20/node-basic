@@ -1,11 +1,12 @@
 {
   "name": "nodebasic",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple node example",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
   },
-  "author": "",
+  "author": "jyoti chauhan",
   "license": "ISC"
 }
